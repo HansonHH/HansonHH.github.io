@@ -42,7 +42,7 @@ useShare: true      # use Comment only. seeing the Share component is depend on 
 # Please set your own analysis account in `head.html`(Baidu) and `default.html`(QQ)
 useBaiduAnalysis: false
 useTencentAnalysis: false
-useGoogleAnalysis: false     # TODO
+useGoogleAnalysis: true     # TODO
 
 
 # Sidebar settings

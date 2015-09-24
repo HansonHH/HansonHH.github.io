@@ -9,11 +9,11 @@ url: "http://HansonHH.github.io"
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
+weibo_username:     
 zhihu_username:     han-xin-28
 github_username:    HansonHH
-#twitter_username:  huxpro
-facebook_username:  huxpro
+twitter_username:  
+facebook_username:  
 linkedin_username:  hansonhh
 
 # Build settings

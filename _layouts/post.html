@@ -45,9 +45,9 @@ layout: default
 				{{ content }}
 
                 <hr>
-
+                
+                <!--
                 {% if site.useDuoshuo && site.useShare %}
-                <!-- 多说 Share start -->
                 </style>
                 <div class="ds-share"
                     style="text-align: right"
@@ -67,8 +67,8 @@ layout: default
                     </div>
                 <hr>
                 </div>
-                <!-- 多少 Share end-->
                 {% endif %}
+                -->
 
 
                 <ul class="pager">
@@ -84,15 +84,14 @@ layout: default
                     {% endif %}
                 </ul>
 
-
+                <!--
                 {% if site.useDuoshuo %}
-                <!-- 多说评论框 start -->
                 <div class="comment">
                     <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}{{page.url}}"></div>
                 </div>
-                <!-- 多说评论框 end -->
                 {% endif %}
-                
+                -->
+
                 {% if site.disqus_shortname %}
                 <!-- Disqus start -->
                 <div id="disqus_thread"></div>

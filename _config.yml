@@ -36,7 +36,7 @@ kramdown:
 # please set your own DuoShuo account in `post.html` and `about.html`
 useDuoshuo: false    # use both Comment and Share
 useShare: false      # use Comment only. seeing the Share component is depend on Comment so we can NOT use share only.
-userDisqus: true
+disqus_shortname : 'xinsblog'
 
 # Todo: Analysis settings
 # Please set your own analysis account in `head.html`(Baidu) and `default.html`(QQ)
